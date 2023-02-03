@@ -1,10 +1,8 @@
-# OOP_and_patterns
-
-Домашние задания ко второму курсу Coursera "ООП и паттерны проектирования". 
-Файлы week?*.txt -- Кейс, финальное задание недели обучения. 
-Файлы week?*.py -- их решения.
-Папка week5 -- финальное задание курса на общее использование паттернов, yaml и ООП.
-В README.md описан полный курс обучения: идеи, концепции, доп модули, фреймворки и проч.
+Курсы от МФТИ, mail.ru, ФРОО на coursera.org
+pep8, @contract, doctest, unittest
+Inheritance, encapsulation, polymorphism, SOLID, ABC, UML
+Patterns: decorator, adapter, observer, chain of responsibility, abstract factory
+YAML
 
 Неделя 1. Тестирование и отладка.
 - Структурное программирование. WaterFall. Декомпозиция
